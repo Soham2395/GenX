@@ -15,7 +15,7 @@ const Footer = () => (
     <div className="gpt3__footer-links">
       <div className="gpt3__footer-links_logo">
         <img src={gpt3Logo} alt="gpt3_logo" />
-        <p>Soham <br /> All Rights Reserved</p>
+        <p>GenX <br /> All Rights Reserved</p>
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Links</h4>
@@ -28,18 +28,18 @@ const Footer = () => (
         <h4>Company</h4>
         <p>Terms & Conditions </p>
         <p>Privacy Policy</p>
-        <p>Contact</p>
+        <p>Contact Us</p>
       </div>
       <div className="gpt3__footer-links_div">
-        <h4>Get in touch</h4>
-        <p>Soham</p>
+        <h4>Get in touch With Us</h4>
+        <p>GenX</p>
         <p>9732909882</p>
         <p>sohamchakraborty18.edu@gmail.com</p>
       </div>
     </div>
 
     <div className="gpt3__footer-copyright">
-      <p>@2024 Soham. All rights reserved.</p>
+      <p>@2024 GenX All rights reserved.</p>
     </div>
   </div>
 );
